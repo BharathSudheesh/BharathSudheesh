@@ -8,14 +8,26 @@ My interests include **Artificial Intelligence, Machine Learning, Generative AI,
 
 ## 🚀 What I Work With
 
-- 🤖 AI / Machine Learning
-- 🧠 Generative AI & LLM Applications
-- 🔗 AI Agents & Automation
-- 👁️ Computer Vision
-- 💬 NLP & Conversational AI
-- ⚡ Python & FastAPI
-- 📱 Flutter & Cross-Platform Development
-- 🗄️ SQL & Backend Systems
+<table>
+<tr>
+<td>
+
+🤖 AI / Machine Learning  
+🔗 AI Agents & Automation  
+💬 NLP & Conversational AI  
+📱 Flutter & Cross-Platform Development  
+
+</td>
+<td>
+
+🧠 Generative AI & LLM Applications  
+👁️ Computer Vision  
+⚡ Python & FastAPI  
+🗄️ SQL & Backend Systems  
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Technologies
 
@@ -30,48 +42,40 @@ My interests include **Artificial Intelligence, Machine Learning, Generative AI,
 ## 🔥 Featured Projects
 
 ### 🩺 BodyScope — Smart Obesity Analysis System
-
-An AI-powered health analysis system combining Machine Learning, Explainable AI, Computer Vision, and conversational AI.
-
-- Built an obesity prediction model using **Random Forest** and integrated **SHAP** to explain individual prediction factors.
-- Developed an image-based food recognition and calorie tracking module using **YOLOv8** and portion-size analysis.
-- Integrated **FLAN-T5** for conversational diet guidance and generated actionable health reports through a modular AI pipeline.
-- Backend services were implemented using **Python and FastAPI**.
+AI-powered health system combining **Machine Learning, Explainable AI, Computer Vision, and conversational AI**.  
+**Technologies:** Python, FastAPI, Random Forest, SHAP, YOLOv8, FLAN-T5.
 
 ### 🤖 Nova — Intelligent Autonomous Desktop Agent
-
-An AI-powered desktop agent designed to understand user commands and autonomously execute computer-based tasks.
-
-- Supports **voice and text commands** for interacting with applications and files.
-- Uses AI-based task planning to determine and execute multi-step actions.
-- Includes task verification to confirm whether the requested operation was completed successfully.
-- Built using **Python, AI Agents, LLMs, and Computer Automation**.
+AI desktop agent that understands **voice/text commands, plans multi-step tasks, and verifies execution**.  
+**Technologies:** Python, AI Agents, LLMs, Computer Automation.
 
 ### 🎙️ Textify — Integrated Media Conversion App
-
-A cross-platform application combining speech processing, OCR, and media conversion capabilities.
-
-- Integrated **Google Speech-to-Text, Text-to-Speech, and ML Kit OCR** into a Flutter application.
-- Developed YouTube caption generation and media-processing features.
-- Built a **Python + FastAPI** backend to handle processing separately from the mobile frontend.
-- Designed the system with scalability and offline capability in mind.
+Cross-platform application for **speech-to-text, text-to-speech, OCR, and YouTube caption generation**.  
+**Technologies:** Flutter, Dart, Python, FastAPI, Google STT/TTS, ML Kit.
 
 ### 🏗️ Field Engineering Copilot
-
-An AI-powered assistant designed to support field engineers with technical workflows, field operations, and intelligent decision-making.
-
-- Building the system with a focus on **AI engineering, automation, and practical field-use cases**.
-- Designed to combine engineering workflows with intelligent assistance and contextual information.
+AI assistant designed to support **field engineering workflows, automation, technical operations, and decision-making**.  
+**Technologies:** AI Engineering, Automation, Intelligent Assistance, Contextual Information.
 
 ## 🎯 Current Focus
 
-I'm currently focusing on:
+<table>
+<tr>
+<td>
 
-- Building production-oriented AI applications
-- Generative AI and LLM-based systems
-- AI Agents and automation
-- Machine Learning
-- AI-powered software engineering
+🚀 Building production-oriented AI applications  
+🔗 AI Agents and automation  
+🤖 Machine Learning  
+
+</td>
+<td>
+
+🧠 Generative AI and LLM-based systems  
+⚙️ AI-powered software engineering  
+
+</td>
+</tr>
+</table>
 
 ## 🤝 Let's Connect
 
